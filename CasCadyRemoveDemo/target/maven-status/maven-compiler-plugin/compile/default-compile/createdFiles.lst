@@ -1,0 +1,4 @@
+com\hibernate\model\Subject.class
+com\hibernate\main\App.class
+com\hibernate\session\SessionProvider.class
+com\hibernate\model\Student.class

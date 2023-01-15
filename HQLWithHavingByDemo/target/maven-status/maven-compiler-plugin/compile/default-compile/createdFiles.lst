@@ -1,0 +1,4 @@
+com\hibernate\model\Employee.class
+com\hibernate\main\Test.class
+com\hibernate\model\Department.class
+com\hibernate\session\SessionProvider.class
